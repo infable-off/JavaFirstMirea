@@ -5,4 +5,5 @@ public class TestFurniture {
         Sofa a = new Sofa("a","23/09/2010", 123);
         a.Sale();
     }
+
 }
